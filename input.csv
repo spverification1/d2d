@@ -1,0 +1,12 @@
+phase_name,step,generate_timestamp,generate_random,hash,encrypt,photos
+Initial,Step 1 ,1,0,0,2,0
+Initial,Step 2,2,0,0,2,0
+Initial,Step 3,0,0,0,2,0
+Session key establishment,Step 1 ,0,0,0,4,0
+Session key establishment,Step 2,1,0,0,4,0
+Session key establishment,Step 3,1,1,1,2,0
+Session key establishment,Step 4,0,0,0,2,0
+Communication,Step 1 ,1,0,0,4,0
+Communication,Step 2,0,0,0,2,0
+Communication,Step 3,0,0,0,2,1
+Communication,Step 4,1,0,0,2,0
